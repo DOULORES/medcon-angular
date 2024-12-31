@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app{
+    background-color: #f3dbe7; 
+    color: #000;
+}
+
+body{
+    background-color: #f3dbe7;
+}

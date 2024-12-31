@@ -113,7 +113,7 @@ A aplicação conecta-se a uma API para persistência e gerenciamento dos dados 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/SEU-USUARIO/medcon-angular.git
+   git clone https://github.com/DOULORES/medcon-angular.git
    cd medcon-angular
    ```
 
